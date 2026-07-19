@@ -2,7 +2,7 @@
 //   const BACKEND_URL = "https://bedtime-story-api.onrender.com";
 // For local development: keep "https://bedtime-story-generator-cohort-theta.vercel.app
 " and run uvicorn locally.
-const BACKEND_URL = "https://bedtime-story-generator-cohort-theta.vercel.app
+const BACKEND_URL = "https://bedtime-story-api-dgb1.onrender.com
 ";
 
 function escapeHtml(s) {
